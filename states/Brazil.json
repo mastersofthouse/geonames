@@ -1,0 +1,218 @@
+[
+    {
+        "id": 2012,
+        "name": "Acre",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "AC"
+    },
+    {
+        "id": 2007,
+        "name": "Alagoas",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "AL"
+    },
+    {
+        "id": 1999,
+        "name": "Amapá",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "AP"
+    },
+    {
+        "id": 2004,
+        "name": "Amazonas",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "AM"
+    },
+    {
+        "id": 2002,
+        "name": "Bahia",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "BA"
+    },
+    {
+        "id": 2016,
+        "name": "Ceará",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "CE"
+    },
+    {
+        "id": 2017,
+        "name": "Distrito Federal",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "DF"
+    },
+    {
+        "id": 2018,
+        "name": "Espírito Santo",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "ES"
+    },
+    {
+        "id": 2000,
+        "name": "Goiás",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "GO"
+    },
+    {
+        "id": 2015,
+        "name": "Maranhão",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "MA"
+    },
+    {
+        "id": 2011,
+        "name": "Mato Grosso",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "MT"
+    },
+    {
+        "id": 2010,
+        "name": "Mato Grosso do Sul",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "MS"
+    },
+    {
+        "id": 1998,
+        "name": "Minas Gerais",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "MG"
+    },
+    {
+        "id": 2009,
+        "name": "Pará",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "PA"
+    },
+    {
+        "id": 2005,
+        "name": "Paraíba",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "PB"
+    },
+    {
+        "id": 2022,
+        "name": "Paraná",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "PR"
+    },
+    {
+        "id": 2006,
+        "name": "Pernambuco",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "PE"
+    },
+    {
+        "id": 2008,
+        "name": "Piauí",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "PI"
+    },
+    {
+        "id": 1997,
+        "name": "Rio de Janeiro",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "RJ"
+    },
+    {
+        "id": 2019,
+        "name": "Rio Grande do Norte",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "RN"
+    },
+    {
+        "id": 2001,
+        "name": "Rio Grande do Sul",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "RS"
+    },
+    {
+        "id": 2013,
+        "name": "Rondônia",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "RO"
+    },
+    {
+        "id": 4858,
+        "name": "Roraima",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "RR"
+    },
+    {
+        "id": 2014,
+        "name": "Santa Catarina",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "SC"
+    },
+    {
+        "id": 2021,
+        "name": "São Paulo",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "SP"
+    },
+    {
+        "id": 2003,
+        "name": "Sergipe",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "SE"
+    },
+    {
+        "id": 2020,
+        "name": "Tocantins",
+        "country_id": 31,
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "state_code": "TO"
+    }
+]
